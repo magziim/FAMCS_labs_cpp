@@ -1,0 +1,12 @@
+﻿  lab05_task06.cpp
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\lab_05\lab_05\lab05_task06\lab05_task06.cpp(36,27): warning C4244: =: преобразование "double" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\lab_05\lab_05\lab05_task06\lab05_task06.cpp(37,28): warning C4244: =: преобразование "double" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=float
+          ]
+  lab05_task06.vcxproj -> C:\Users\user\Desktop\BSU_20-21\Programming\Labs\lab_05\lab_05\Debug\lab05_task06.exe

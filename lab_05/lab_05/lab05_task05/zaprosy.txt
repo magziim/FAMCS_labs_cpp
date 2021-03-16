@@ -1,0 +1,4 @@
+add 7
+delete 5
+find_min
+is_exist 10
