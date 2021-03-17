@@ -1,0 +1,3 @@
+﻿  lab04_task02.cpp
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_task02\ind_max_lib.h(22): warning C4715: max_ind: значение возвращается не при всех путях выполнения
+  lab04_task02.vcxproj -> C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\Debug\lab04_task02.exe

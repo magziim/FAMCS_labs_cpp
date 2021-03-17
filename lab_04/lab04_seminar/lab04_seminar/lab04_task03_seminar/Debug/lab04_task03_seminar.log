@@ -1,0 +1,5 @@
+﻿  lab04_task03_seminar.cpp
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task03_seminar\lab04_seminar.h(19,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task03_seminar\lab04_seminar.h(22,24): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task03_seminar\lab04_seminar.h(25,28): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  lab04_task03_seminar.vcxproj -> C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\Debug\lab04_task03_seminar.exe

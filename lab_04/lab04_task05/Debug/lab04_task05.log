@@ -1,0 +1,5 @@
+﻿  lab04_task05.cpp
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_task05\sort_lib.h(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_task05\lab04_task05.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BubbleSort<int>(std::vector<int,std::allocator<int>> &)"
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_task05\sort_lib.h(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab04_task05.vcxproj -> C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\Debug\lab04_task05.exe

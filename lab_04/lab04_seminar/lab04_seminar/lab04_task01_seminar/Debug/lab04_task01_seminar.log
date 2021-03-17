@@ -1,0 +1,7 @@
+﻿  lab04_task01_seminar.cpp
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task01_seminar\lab04_seminar.h(20,28): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task01_seminar\lab04_seminar.h(23,24): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task01_seminar\lab04_seminar.h(26,28): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task01_seminar\lab04_seminar.h(42,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\lab04_task01_seminar\lab04_task01_seminar.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab04_task01_seminar.vcxproj -> C:\Users\user\Desktop\BSU_20-21\Programming\Labs\task04_zhydovich_maksim\lab04_seminar\lab04_seminar\Debug\lab04_task01_seminar.exe
